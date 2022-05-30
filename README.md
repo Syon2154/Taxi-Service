@@ -6,15 +6,18 @@ ___
 
 * Authorization using login, password
 * Viewing main menu
-* 
+
+
 * Creating car manufacturer
 * Deleting car manufacturer
 * Viewing all car manufacturers
 * Adding a specific driver to the car
 
+
 * Creating car with manufacturer
 * Deleting car
 * Viewing all cars
+
 
 * Creating new driver
 * Deleting driver
